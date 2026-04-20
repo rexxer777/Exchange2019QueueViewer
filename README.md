@@ -32,3 +32,4 @@ Alternatively, right-click `Queues.ps1` and select **Run with PowerShell**.
 
 ## License
 This project is licensed under the MIT License - feel free to use and modify for your organization.
+<img width="1179" height="708" alt="image" src="https://github.com/user-attachments/assets/ceb40998-a7b9-4ab1-925e-8d2d22fb729e" />
